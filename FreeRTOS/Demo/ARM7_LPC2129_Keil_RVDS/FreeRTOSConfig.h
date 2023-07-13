@@ -54,8 +54,8 @@
 #define configUSE_TRACE_FACILITY	0
 #define configUSE_16_BIT_TICKS		0
 #define configIDLE_SHOULD_YIELD		1
-#define configUSE_EDF_SCHEDULER   1   /** add EDF_SCHEDULER configuration parameter **/
 #define configQUEUE_REGISTRY_SIZE 	0
+#define configUSE_EDF_SCHEDULER   1   /** add EDF_SCHEDULER configuration parameter **/
 
 /* Co-routine definitions. */
 #define configUSE_CO_ROUTINES 		0
